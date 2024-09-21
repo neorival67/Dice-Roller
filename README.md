@@ -1,6 +1,5 @@
-# myapp
-
-A new Flutter project.
+# myapp : Dice Roller Mini Project
+throwing the shape into the air to obtain a certain number to move forward in any game
 
 ## Getting Started
 
